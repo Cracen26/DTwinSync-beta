@@ -59,8 +59,8 @@ BaselineOfDTwinSync >> postLoad [
 { #category : 'specs' }
 BaselineOfDTwinSync >> specsForPackage: spec [
 	spec 
-		package: 'DTwinSyncCore';
-		package: 'DTwinSyncNetwork';
-		package: 'DTwinSyncConfiguration';
-		package: 'DTwinSyncViews'
+		package: 'DTwinSync-Core';
+		package: 'DTwinSync-Network';
+		package: 'DTwinSync-Configuration';
+		package: 'DTwinSync-Views'
 ]
