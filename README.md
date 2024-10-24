@@ -11,7 +11,7 @@ DTwinSync is a platform that implements a hierarchical digital twin architecture
 ## Load DTwinSync
 ```
 Metacello new
-  baseline: 'DTwinSync-beta';
-  repository: 'github://Cracen26/DTwinSync-beta/src';
-  load
+    repository: 'github://Cracen26/DTwinSync-beta';
+    baseline: 'DTwinSync';
+    load.
 ```
