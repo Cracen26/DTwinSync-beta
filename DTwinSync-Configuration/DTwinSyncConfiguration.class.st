@@ -8,16 +8,6 @@ Class {
 	#package : 'DTwinSync-Configuration'
 }
 
-{ #category : 'class initialization' }
-DTwinSyncConfiguration class >> initialize [ 
-	self setLogo 
-]
-
-{ #category : 'as yet unclassified' }
-DTwinSyncConfiguration class >> returnBroker [
-	
-]
-
 { #category : 'initialization' }
 DTwinSyncConfiguration class >> setLogo [
 	| form logoMorph |
