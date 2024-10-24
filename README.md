@@ -7,7 +7,7 @@
 </p>
 
 ## Description
-lorem ipsum
+DTwinSync is a platform that implements a hierarchical digital twin architecture, built on the HSDTM2 metamodel, which is designed in accordance with Industry 4.0 standards such as AAS.
 ## Load DTwinSync
 ```
 Metacello new
