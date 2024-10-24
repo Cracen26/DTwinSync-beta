@@ -38,7 +38,7 @@ BaselineOfDTwinSync >> dtwinsyncLogoBase64 [
 ]
 
 { #category : 'background image' }
-BaselineOfDTwinSync >> loadBackgroundImage [ 
+BaselineOfDTwinSync >> loadBackgroundimage [ 
 	<script>
 	| logo |
 	
@@ -50,10 +50,10 @@ BaselineOfDTwinSync >> loadBackgroundImage [
 
 { #category : 'doits' }
 BaselineOfDTwinSync >> postLoad [
-	self class loadBackgroundImage .
+	self class loadBackgroundimage .
 	
 	SystemAnnouncer uniqueInstance 
-		when: UIThemeChanged send: #loadBackgroundImage to: self class. 
+		when: UIThemeChanged send: #loadBackgroundimage to: self class. 
 ]
 
 { #category : 'specs' }
