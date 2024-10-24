@@ -38,7 +38,6 @@ BaselineOfDTwinSync >> dtwinsyncLogoBase64 [
 
 { #category : 'background image' }
 BaselineOfDTwinSync >> loadBackgroundImage [ 
-	"Load Cormas logo as background image"
 	<script>
 	| logo |
 	
