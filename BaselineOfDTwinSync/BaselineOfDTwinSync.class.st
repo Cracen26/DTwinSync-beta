@@ -15,6 +15,7 @@ BaselineOfDTwinSync >> base64ToMorph: aString [
 { #category : 'baselines' }
 BaselineOfDTwinSync >> baseline: spec [
 	<baseline>
+	
 	spec
 		for: #common
 		do: [
