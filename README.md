@@ -6,6 +6,8 @@
   </p>
 </p>
 
+## Description
+lorem ipsum
 ## Load DTwinSync
 ```
 Metacello new
